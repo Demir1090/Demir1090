@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+I am a materials science engineering student, tyring to learn to code
 <!--
 **Demir1090/Demir1090** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
